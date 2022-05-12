@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
 
-### 
+### Purpose
 The purpose of this analysis is to help Louise know how the various campaigns have evolved in relation to their launch dates and funding goals.
 
 ## Analysis and Challenges
