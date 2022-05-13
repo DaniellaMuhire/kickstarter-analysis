@@ -10,9 +10,15 @@ The purpose of this analysis is to help Louise know how the various campaigns ha
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+
+![alt text](Resources/Theater_Outcomes_vs_Launch.png)
+
 The month that launched the most successful Kickstarter campaigns was May. The month of May and June both have greater success rate. However, we can see that January, June, July and October have roughly the same number of failed campaigns launched. This is determined by examining the points along the trend lines of the chart.
 
 ### Analysis of Outcomes Based on Goals
+
+![alt text](Resources/Outcomes_vs_Goals.png)
+
 In general, we can see that when the goal range is small, the percentage Successful is higher and the percentage Failed is smaller, and when the goal range is higher, the percentage Successful is smaller and the percentage Failed is higher. The percentage Canceled remains null in those two scenarios. 
 
 ### Challenges and Difficulties Encountered
