@@ -5,7 +5,7 @@ Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to help Louise know how the various campaigns have evolved in relation to their launch dates and funding goals.
+The purpose of this analysis is to help Louise know how the various campaigns have evolved in relation to their launch dates and funding goals. We do that looking at trends.
 
 ## Analysis and Challenges
 
@@ -13,7 +13,7 @@ The purpose of this analysis is to help Louise know how the various campaigns ha
 
 ![alt text](Resources/Theater_Outcomes_vs_Launch.png)
 
-The month that launched the most successful Kickstarter campaigns was May. The month of May and June both have greater success rate. However, we can see that January, June, July and October have roughly the same number of failed campaigns launched. This is determined by examining the points along the trend lines of the chart.
+The month that launched the most successful Kickstarter campaigns was May. The month of May and June both have greater success rate. However, we can also see that May, June, July, August and October have roughly the same number of failed campaigns launched. This is determined by examining the points along the trend lines of the chart. The month of July has the least number of Cancelation. 
 
 ### Analysis of Outcomes Based on Goals
 
@@ -26,15 +26,19 @@ Challenges and difficulties encountered were mostly how to manipulate Excel. For
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Based on the trend lines, we can first conclude that it is better to launch campaign in the months of May and June  absed on the line chart results. Secondly, the length of a campaign is correlated with its success. A longer campaign has more chnace of being successful. 
+- 
+We can first conclude that it is better to launch campaign in the months of May and June based on the line chart results. In fact, those two months have the highest number of Success.
+Secondly, Louise should avoi launching campaigns in the months of November and December because those two months have the lowest successful rate.
 
 - What can you conclude about the Outcomes based on Goals?
-Baes on goals,  we can conclude that more the goal is higher, more likely it won't be successful and vice versa.
+- 
+There is a negative correlation.  More the goal amount is higher, more likely it won't be successful and more the goal amount is lower, the more likely it will have a high successful rate. 
 
 - What are some limitations of this dataset?
-Some limitations could be a limited sample size or lack of reliable data such as self-reported data, missing data, and deficiencies in data measurements. 
+- 
+Some limitations could be a limited sample size or lack of reliable data such as missing data, and deficiencies in data measurements. We definetely need more data to give an accurate analysis. It is not very understanding how the month of May and June have a greater success rate in the Outcomes by Launch Date and those same two months have the greater failed rate in that same field.
 
 - What are some other possible tables and/or graphs that we could create?
 
-It would be great to have a graphs of potential outliers Outcomes based on Launch Date and Goals. It would also be great to use skewness to wuantify how skewed, or asymmetrical, a distribution is. 
+It would be great to have tables and/or graphs of potential outliers Outcomes based on Launch Date and Goals. It would also be great to use skewness to quantify how skewed, or asymmetrical, a distribution is. 
 
