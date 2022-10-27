@@ -26,16 +26,16 @@ Challenges and difficulties encountered were mostly how to manipulate Excel. For
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- 
+
 We can first conclude that it is better to launch campaign in the months of May and June based on the line chart results. In fact, those two months have the highest number of Success.
 Secondly, Louise should avoi launching campaigns in the months of November and December because those two months have the lowest successful rate.
 
 - What can you conclude about the Outcomes based on Goals?
-- 
+
 There is a negative correlation.  More the goal amount is higher, more likely it won't be successful and more the goal amount is lower, the more likely it will have a high successful rate. 
 
 - What are some limitations of this dataset?
-- 
+
 Some limitations could be a limited sample size or lack of reliable data such as missing data, and deficiencies in data measurements. We definetely need more data to give an accurate analysis. It is not very understanding how the month of May and June have a greater success rate in the Outcomes by Launch Date and those same two months have the greater failed rate in that same field.
 
 - What are some other possible tables and/or graphs that we could create?
